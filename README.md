@@ -2,6 +2,7 @@
 I developed this Feedback System using Python (Django). 
 
 #output
+
 #Home page
 ![11](https://github.com/kartikivedpathak123/Django-Student-feedback-System-/assets/160269792/bbe174a7-a64b-4a13-b618-e4fb2f613b18)
 #Aboutus
