@@ -1,6 +1,5 @@
 # Django-Student-feedback-System-
-I developed this Feedback System using Python (Django). 
-
+The Student Feedback System is a web-based application designed and developed using the Django framework, Python programming language, HTML, CSS, and JavaScript. This project aimed to create a platform for students to provide feedback on their courses
 #output
 
 #Home page
